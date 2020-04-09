@@ -33,6 +33,9 @@
         });         
 ```
 
+![image](https://note.youdao.com/yws/api/personal/file/36C0D246BBC24345B8AF80FCCD603B0E?method=download&shareKey=ab68d046b2bd40798b3d27251525d0a4)
+
+
 ## 要点
 * 构建者模式设置请求相关（待实现：由调用层设置）
 * 线程池管理请求线程，单例模式实现
